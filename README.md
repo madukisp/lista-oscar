@@ -76,4 +76,4 @@ Lista completa com categorias, atores, músicas indicadas e classificação indi
 - **The Last Repair Shop**
 - **Nǎi Nai & Wài Pó**
 
-❤️ By [Amanda](github.com/madukisp)
+❤️ By [Amanda](https://github.com/madukisp)
