@@ -75,3 +75,5 @@ Lista completa com categorias, atores, músicas indicadas e classificação indi
 - **Island in Between**
 - **The Last Repair Shop**
 - **Nǎi Nai & Wài Pó**
+
+❤️ By [Amanda](github.com/madukisp)
